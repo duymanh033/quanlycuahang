@@ -1,0 +1,33 @@
+{
+    "users": [
+      {
+        "name": "SP 1",
+        "status": "1",
+        "id": 1
+      },
+      {
+        "name": "SP 2 update",
+        "status": "2",
+        "id": 2
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "Trà sữa Mixue",
+        "drees": " Mỹ đình- Nam Từ Liêm - Hà Nội",
+        "phone": "0982432401",
+         "Image": "https://lamaca.vn/wp-content/uploads/2021/08/nh%C6%B0%E1%BB%A3ng-quy%E1%BB%81n-mixue.jpg",
+        "status": "1"
+      },
+      {
+        "id": 2,
+        "name": "LẨU Nướng Không Khói",
+        "drees": " Cầu Giay - Hà Nội",
+        "phone": "0982432401",
+         "Image": "https://tse2.mm.bing.net/th?id=OIP.8LFVaoG8tNK5s01Zj0BJZAHaFj&pid=Api&P=0",
+        "status": "0"
+      }
+      
+    ]
+  }
